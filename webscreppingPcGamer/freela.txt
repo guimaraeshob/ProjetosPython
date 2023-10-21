@@ -1,0 +1,20 @@
+# Bibliotecas 
+
+	web(site) -> Selenium
+	Planilhas -> Openpyxl
+
+# Demanda
+
+	Acessar site: 	https://www.novaliderinformatica.com.br/computadores-gamers
+
+	Pegar nome do produto
+	pegar valores de preços
+	Salvar dados em planilhas
+
+Como pegar o XPATH
+
+//tag[@atributo='valor']
+//a[@class='nome-produto']
+//strong[@class='preco-promocional']
+
+use control + F para procurar o XPATH criado no devtool 
