@@ -1,0 +1,27 @@
+Passo a passo:
+Automação de planilhas em sistema web.
+
+	1 - Entrar na planilha;
+	2 - Coipar informaçoes de um campo e colar no seu campo correspondente;
+	3 - Repetir esse passo para os outros campos;
+	4 - Clicar no botão (próxima);
+	5 - Repetir os mesmos passos e ir para a proxima pagina((pagina 2);
+	6 - Repetir os mesmos passo e finalizar o cadastro de toros os produtos da planilha;
+	7 - Clicar em ok, pata finalizar o processo no formulário;
+	8 - clicar no ok, salvamento no Banco de dados.
+
+Bibliotecas:
+
+	pyautogui -> automação desktop
+	openpyxl -> criação e manipulação de planilhas
+	pyperclip -> para trabalha com caracter com pontuação
+	
+	Instalando -> pip install openpyxl pyautogui
+
+Criar um ambiente virtual:
+
+	Criar  -> python3 -m venv freelarpa
+	Ativar -> freelarpa\Scripts\activate
+
+	
+
